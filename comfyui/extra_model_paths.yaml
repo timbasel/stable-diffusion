@@ -1,0 +1,7 @@
+colab:
+  base_path: /content/models
+  checkpoints: checkpoints
+  vae: vae
+  loras: loras
+  embeddings: embeddings
+  upscale_models: upscale
